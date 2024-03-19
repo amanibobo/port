@@ -1,7 +1,7 @@
 import MaxWidthWrapper from "@/components/MaxWidthWrapper";
 import SideBar from "@/components/SideBar";
 
-export default function ResearchWorkSchool() {
+export default function Stuff() {
   const projects = [
     {
       title1: "Research concept-map",
